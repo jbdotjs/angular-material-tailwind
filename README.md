@@ -1,5 +1,15 @@
 # angular-material-tailwind
 
+## Features
+
++ [Angular Material](https://material.angular.io)
++ [Tailwind CSS](https://tailwindcss.com/) 2.0 with JIT enabled
++ Documentation generator [Compodoc](https://compodoc.app) pre-configured
+
+## Generating Documentation
+Run `npm run compodoc` in the root directory. It'll generate the documentation in project-name/documentation directory and will serve the documentation at **port 8080** in watch mode.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
 
 ## Development server
